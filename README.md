@@ -53,6 +53,12 @@
   <br>
   
   <h3>✉️ Contact </h3>
+
+  <div>
+    <a href="mailto:sherry1403@naver.com">
+      <img src="https://img.shields.io/badge/sherry1403@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    </a>
+  </div>
   
 </div>
 
