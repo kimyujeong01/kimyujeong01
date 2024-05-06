@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=YuJeong%20Kim&desc=portfolio&fontSize=70&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=YuJeong%20Kim&desc=portfolio&fontSize=70&fontColor=fffff" />
