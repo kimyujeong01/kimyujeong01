@@ -26,5 +26,7 @@
 </div>
 
 <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=vue" width=38% />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=vue" width=56% />
   <img src="https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=vue" />
 </div>
