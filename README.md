@@ -8,7 +8,6 @@
   <ul>
     <li>
       <h3>📚 Language </h3>
-      <li>일본어</li>
     </li>
   </ul>
 
