@@ -26,5 +26,5 @@
 </div>
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=radical" />
 </div>
