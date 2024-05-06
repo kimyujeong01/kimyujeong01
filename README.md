@@ -4,7 +4,7 @@
 </div>
 
 <!--메인-->
-<div align="center">
+<div>
   <ul>
     <li>
       <h3>📚 Language </h3>
