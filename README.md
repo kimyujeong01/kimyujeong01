@@ -4,9 +4,35 @@
 </div>
 
 <!--메인-->
-<ul>
-  <li><h3>🛠 Tech Stack </h3></li>
-</ul>
+<div align="center">
+  <ul>
+    <li>
+      <h3>📚 Language </h3>
+      <li>일본어</li>
+    </li>
+  </ul>
+
+  <br>
+  
+  <ul>
+    <li><h3>🛠 Tech Stack </h3></li>
+  </ul>
+
+  <br>
+  
+  <ul>
+    <li><h3>🖥️ Tools </h3></li>
+  </ul>
+
+  <br>
+  
+  <ul>
+    <li><h3>✉️ Contact </h3></li>
+  </ul>
+  
+</div>
+
+
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
