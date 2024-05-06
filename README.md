@@ -4,8 +4,12 @@
 </header>
 
 <!--본문-->
-<main align="center">
-  <h3>🛠 Tech Stack 🛠</h3>
+<main>
+  <div align="center">
+    <h3>🛠 Tech Stack 🛠</h3>
+  </div>
+    
+  
 </main>
 
 
