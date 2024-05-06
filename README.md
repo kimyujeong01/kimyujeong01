@@ -6,9 +6,10 @@
 <!--메인-->
 <div align="center">
   <h3>📚 Language </h3>
-  <ul>
-    <ol></ol>
-  </ul>
+  <ol>
+    <li>한국어</li>
+    <li>일본어</li>
+  </ol>
 
   <br>
   
