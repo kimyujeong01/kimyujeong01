@@ -6,8 +6,8 @@
 <!--메인-->
 <div align="center">
   <h3>📚 Language </h3>
-  
-  <img src="https://img.shields.io/badge/korean-0b6db7?style=flat&logo=korean&logoColor=white"/></a>&nbsp
+
+  <img src="https://img.shields.io/badge/korean-0b6db7?style=flat&logo=korean&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Japanese-b82647?style=flat&logo=Japanese&logoColor=white"/></a>
 
   <br>
