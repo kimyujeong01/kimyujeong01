@@ -6,10 +6,8 @@
 <!--메인-->
 <div align="center">
   <h3>📚 Language </h3>
-  <ol>
-    <li>한국어</li>
-    <li>일본어</li>
-  </ol>
+  <img src="https://img.shields.io/badge/한국어-0b6db7?style=flat&logo=한국어&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/일본어-007396?style=flat&logo=일본어&logoColor=white"/></a>
 
   <br>
   
