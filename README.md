@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c#-512BD4?style=flat&logo=c#&logoColor=white"/>
+    <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
   </div>
 
