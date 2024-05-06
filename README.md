@@ -8,6 +8,10 @@
   <li><h3>🛠 Tech Stack </h3></li>
 </ul>
 
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </div>
@@ -18,13 +22,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🖥️ Tools </h3>
+<ul>
+  <li><h3>🖥️ Tools </h3></li>
+</ul>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -39,7 +39,10 @@
 
 <br>
 
-<h3 align="center">✉️ Contact </h3>
+<ul>
+  <li><h3>✉️ Contact </h3></li>
+</ul>
+
 <div align="center">
   <a href="mailto:sherry1403@naver.com">
     <img
