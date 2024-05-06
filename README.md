@@ -7,12 +7,17 @@
 <div align="center">
   <h3>📚 Language </h3>
 
-  <img src="https://img.shields.io/badge/korean-0b6db7?style=flat&logo=korean&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Japanese-b82647?style=flat&logo=Japanese&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/korean-0b6db7?style=flat&logo=korean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Japanese-b82647?style=flat&logo=Japanese&logoColor=white"/>
 
   <br>
   
   <h3>🛠 Tech Stack </h3>
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/korean-0b6db7?style=flat&logo=korean&logoColor=white"/>
+    <img src="https://img.shields.io/badge/korean-0b6db7?style=flat&logo=korean&logoColor=white"/>
+  </div>
 
   <br>
   
