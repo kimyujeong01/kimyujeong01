@@ -5,11 +5,9 @@
 
 <!--메인-->
 <ul>
-  <li>
-    
-  </li>
+  <li><h3>🛠 Tech Stack </h3></li>
 </ul>
-<h3 align="center">🛠 Tech Stack </h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </div>
