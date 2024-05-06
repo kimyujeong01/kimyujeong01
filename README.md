@@ -5,28 +5,18 @@
 
 <!--메인-->
 <div align="center">
-  <ul>
-    <li>
-      <h3>📚 Language </h3>
-    </li>
-  </ul>
+  <h3>📚 Language </h3>
 
   <br>
   
-  <ul>
-    <li><h3>🛠 Tech Stack </h3></li>
-  </ul>
+  <h3>🛠 Tech Stack </h3>
 
   <br>
   
-  <ul>
-    <li><h3>🖥️ Tools </h3></li>
-  </ul>
+  <h3>🖥️ Tools </h3>
 
   <br>
   
-  <ul>
-    <li><h3>✉️ Contact </h3></li>
-  </ul>
+  <h3>✉️ Contact </h3>
   
 </div>
