@@ -1,6 +1,6 @@
 <!--헤더-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=250&section=header&fontSize=50&fontColor=FFFFFF&text=YuJeong%20Kim&fontAlignY=40&fontAlign=80&desc=Github&descAlignY=30&descAlign=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=250&section=header&fontSize=50&fontColor=FFFFFF&text=YuJeong%20Kim&fontAlignY=40&fontAlign=20&desc=Github&descAlignY=30&descAlign=80" />
 </div>
 
 <!--메인-->
