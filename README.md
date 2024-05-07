@@ -60,10 +60,11 @@
     </a>
   </div>
   
+  <br>
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=vue" />
+  </div>
+
 </div>
 
-<br>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimyujeong01&show_icons=true&theme=vue" />
-</div>
